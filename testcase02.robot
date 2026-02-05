@@ -2,5 +2,5 @@
 Library     SeleniumLibrary
 
 *** Testcase  ***
-TC 01
-    Log To Console  Test2
+TC 02
+    Log To Console  Test2222
